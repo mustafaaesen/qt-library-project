@@ -1,0 +1,18 @@
+# build klasörü
+build/
+
+# Qt Creator kullanıcı ayarları
+*.user
+*.pro.user
+
+# Derleme dosyaları
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.log
+*.moc
+Makefile*
+
