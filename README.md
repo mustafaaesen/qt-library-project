@@ -17,6 +17,7 @@ Bu proje, **Qt framework** kullanılarak geliştirilmiş bir **Kütüphane Otoma
 - **SQLite (Qt SQL module)**
 
 ## 🗂️ Dosya Yapısı
+```
 
 ├── build/ # Derleme çıktıları
 ├── images/ # Arayüzde kullanılan görseller
@@ -28,7 +29,7 @@ Bu proje, **Qt framework** kullanılarak geliştirilmiş bir **Kütüphane Otoma
 ├── LibraryProject.pro # Qt proje dosyası
 ├── resource.qrc # Kaynak (görsel) tanımları
 ├── main.cpp # Giriş noktası
-
+```
 
 ## 💻 Kurulum ve Çalıştırma
 
